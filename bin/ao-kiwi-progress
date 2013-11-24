@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+require 'april_oneil'
+
+STDOUT.sync = true
+
+formatter = AprilONeil::Formatters::KiwiProgress.new(STDOUT)
+xctool    = AprilONeil::XCTool.new(STDIN, formatter)
+
+xctool.start
