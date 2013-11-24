@@ -2,6 +2,11 @@
 
 April O'Neil is a reporter for [Facebook's xctool](http://github.com/facebook/xctool).
 
+## Requirements
+
+* Ruby 2.0 (pre-installed on Mavericks)
+* xctool 1.1
+
 ## Installation
 
 ```bash
