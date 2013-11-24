@@ -26,6 +26,16 @@ xctool -workspace YourProject.xcworkspace \
 
 Used for tests written with [Kiwi](http://github.com/allending/kiwi). Inspired by [RSpec's](http://rspec.info) progress formatter.
 
+Example output:
+
+![Kiwi Progress Passing](https://github.com/enriquez/april_oneil/wiki/readme-assets/ao-kiwi-progress-passing.png)
+![Kiwi Progress Pending](https://github.com/enriquez/april_oneil/wiki/readme-assets/ao-kiwi-progress-pending.png)
+![Kiwi Progress Compile Error](https://github.com/enriquez/april_oneil/wiki/readme-assets/ao-kiwi-progress-compile-error.png)
+![Kiwi Progress Failures](https://github.com/enriquez/april_oneil/wiki/readme-assets/ao-kiwi-progress-failing.png)
+
+
+
+
 ## MIT License
 
 Copyright (c) 2013 Michael Enriquez (http://enriquez.me)
