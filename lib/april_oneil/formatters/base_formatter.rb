@@ -6,6 +6,9 @@ module AprilONeil
         @output = output
       end
 
+      def output_before_test_bundle_starts(opts)
+      end
+
       def before_start
       end
 
